@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTerrainPrototype", "StockTerrainPrototype\StockTerrainPrototype.csproj", "{C826FC06-2A72-47B6-A2E5-1EF51F466B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceLibrary", "FinanceLibrary\FinanceLibrary.csproj", "{74CEABC2-7D77-4523-869B-9D14F1EC0C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C826FC06-2A72-47B6-A2E5-1EF51F466B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C826FC06-2A72-47B6-A2E5-1EF51F466B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C826FC06-2A72-47B6-A2E5-1EF51F466B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C826FC06-2A72-47B6-A2E5-1EF51F466B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CEABC2-7D77-4523-869B-9D14F1EC0C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CEABC2-7D77-4523-869B-9D14F1EC0C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CEABC2-7D77-4523-869B-9D14F1EC0C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CEABC2-7D77-4523-869B-9D14F1EC0C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
